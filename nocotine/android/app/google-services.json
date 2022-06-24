@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811937893423",
+    "project_id": "nocotine-3d5b5",
+    "storage_bucket": "nocotine-3d5b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811937893423:android:c52609804c4afa84c24ada",
+        "android_client_info": {
+          "package_name": "com.example.nocotine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811937893423-qr0kopqb2djbna69lnaahrrtt9b7g8m8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoJ_2KcGTL2FgNsuebQ1cg9de9yWQslZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811937893423-qr0kopqb2djbna69lnaahrrtt9b7g8m8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
